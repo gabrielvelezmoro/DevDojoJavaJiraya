@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09e668d7-7534-4c52-b27c-7172791a90b9" name="Changes" comment="Aula04: Maior Igual, Menor Igual">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2023_17_13_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_10_2023_17_13__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula04Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula04Operadores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -108,10 +114,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.Aula03TiposPrimitivosExercicios" />
-      <item itemvalue="Application.Aula04Operadores" />
       <item itemvalue="Application.Aula01OlaDevDojo" />
       <item itemvalue="Application.Aula02TiposPrimitivos" />
+      <item itemvalue="Application.Aula03TiposPrimitivosExercicios" />
+      <item itemvalue="Application.Aula04Operadores" />
     </list>
     <recent_temporary>
       <list>
@@ -194,7 +200,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698351280157</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Aula04: Maior Igual, Menor Igual">
+      <created>1698351346386</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698351346386</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Aula04: Maior Igual, Menor Igual">
+      <created>1698351359378</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698351359378</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
