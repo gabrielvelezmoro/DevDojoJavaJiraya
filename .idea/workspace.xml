@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09e668d7-7534-4c52-b27c-7172791a90b9" name="Changes" comment="operadores">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais02.java" afterDir="false" />
+    <list default="true" id="09e668d7-7534-4c52-b27c-7172791a90b9" name="Changes" comment="Terceira aula de condicionais">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Aula05EstruturasCondicionais02">
+  <component name="RunManager" selected="Application.Aula05EstruturasCondicionais03">
     <configuration name="Aula05EstruturasCondicionais01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais01" />
       <module name="maratona-java" />
@@ -78,15 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="maratona-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="academy.devdojo.maratonajava.introducao.Aula02TiposPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula02TiposPrimitivos" />
+    <configuration name="Aula05EstruturasCondicionais03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -94,6 +86,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="maratona-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,17 +127,17 @@
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.Aula05EstruturasCondicionais01" />
       <item itemvalue="Application.Aula05EstruturasCondicionais02" />
-      <item itemvalue="Application.academy.devdojo.maratonajava.introducao.Aula02TiposPrimitivos" />
+      <item itemvalue="Application.Aula05EstruturasCondicionais03" />
       <item itemvalue="Application.academy.devdojo.maratonajava.introducao.Aula03TiposPrimitivosExercicios" />
       <item itemvalue="Application.academy.devdojo.maratonajava.introducao.Aula04Operadores" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula05EstruturasCondicionais03" />
         <item itemvalue="Application.Aula05EstruturasCondicionais02" />
         <item itemvalue="Application.Aula05EstruturasCondicionais01" />
         <item itemvalue="Application.academy.devdojo.maratonajava.introducao.Aula04Operadores" />
         <item itemvalue="Application.academy.devdojo.maratonajava.introducao.Aula03TiposPrimitivosExercicios" />
-        <item itemvalue="Application.academy.devdojo.maratonajava.introducao.Aula02TiposPrimitivos" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +234,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700569941169</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Segunda aula de condicionais">
+      <created>1701455401486</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1701455401490</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Terceira aula de condicionais">
+      <created>1701456807908</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1701456807908</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,7 +267,9 @@
     <MESSAGE value="Aula03: Maior Igual, Menor Igual" />
     <MESSAGE value="Aula04: Maior Igual, Menor Igual" />
     <MESSAGE value="operadores" />
-    <option name="LAST_COMMIT_MESSAGE" value="operadores" />
+    <MESSAGE value="Segunda aula de condicionais" />
+    <MESSAGE value="Terceira aula de condicionais" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terceira aula de condicionais" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/maratona_java$OlaDevDojo.ic" NAME="OlaDevDojo Coverage Results" MODIFIED="1697776134198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
