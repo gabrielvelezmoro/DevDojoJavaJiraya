@@ -6,11 +6,11 @@ public class Aula04Operadores {
         int numero01 = 10;
         int numero02 = 20;
         double resultado = numero01 / (double) numero02;
-        System.out.println("valor: "+resultado );
+        System.out.println("valor: " + resultado);
 
         // %
         int resto = 21 % 2;
-        System.out.println(resto );
+        System.out.println(resto);
 
         // < > <= >=  == !=
 
@@ -21,13 +21,13 @@ public class Aula04Operadores {
         boolean isDezIgualVinte = 10 == 20;
         boolean isDezIgualDez = 10 == 20;
         boolean isDezDiferentelDez = 10 != 20;
-        System.out.println("isDezMaiorQueVinte "+isDezMaiorQueVinte);
-        System.out.println("isDezMenorQueVinte "+isDezMenorQueVinte);
-        System.out.println("isDezIgualVinte "+isDezIgualVinte);
-        System.out.println("isDezIgualDez "+isDezIgualDez);
-        System.out.println("isDezDiferentelDez "+isDezDiferentelDez);
-        System.out.println("isDezMaiorIgualAVinte "+isDezMaiorIgualAVinte);
-        System.out.println("isDezMenorIgualAVinte "+isDezMenorIgualAVinte);
+        System.out.println("isDezMaiorQueVinte " + isDezMaiorQueVinte);
+        System.out.println("isDezMenorQueVinte " + isDezMenorQueVinte);
+        System.out.println("isDezIgualVinte " + isDezIgualVinte);
+        System.out.println("isDezIgualDez " + isDezIgualDez);
+        System.out.println("isDezDiferentelDez " + isDezDiferentelDez);
+        System.out.println("isDezMaiorIgualAVinte " + isDezMaiorIgualAVinte);
+        System.out.println("isDezMenorIgualAVinte " + isDezMenorIgualAVinte);
 
         // &&(AND) ||(Or) !(not);
         int idade = 29;
@@ -35,14 +35,14 @@ public class Aula04Operadores {
         boolean isDentroDaLeiMaiorQueTrinta = idade >= 30 && salario >= 4612;
         boolean isDentroDaLeiMenorQueTrinta = idade < 30 && salario >= 3381;
 
-        System.out.println("isDentroDaLeiMaiorQueTrinta "+ isDentroDaLeiMaiorQueTrinta);
-        System.out.println("isDentroDaLeiMenorQueTrinta "+ isDentroDaLeiMenorQueTrinta);
+        System.out.println("isDentroDaLeiMaiorQueTrinta " + isDentroDaLeiMaiorQueTrinta);
+        System.out.println("isDentroDaLeiMenorQueTrinta " + isDentroDaLeiMenorQueTrinta);
 
         double valorTotalContaCorrente = 200;
         double valorTotalContaPoupanca = 10000;
         float valorPlaystation = 5000F;
         boolean isPlaystationCincoCompravel = valorTotalContaCorrente > valorPlaystation || valorTotalContaPoupanca > valorPlaystation;
-        System.out.println("isPlaystationCincoCompravel "+ isPlaystationCincoCompravel);
+        System.out.println("isPlaystationCincoCompravel " + isPlaystationCincoCompravel);
 
 
         // += -= *= /+ %=
@@ -56,7 +56,7 @@ public class Aula04Operadores {
         System.out.println("bonus: " + bonus);
 
         int contador = 0;
-        contador +=1;
+        contador += 1;
         contador++;
 
         System.out.println("contador: " + contador);
