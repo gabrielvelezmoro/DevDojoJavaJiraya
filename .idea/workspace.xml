@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09e668d7-7534-4c52-b27c-7172791a90b9" name="Changes" comment="Sexta aula e formatações">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasCondicionais06.java" afterDir="false" />
+    <list default="true" id="09e668d7-7534-4c52-b27c-7172791a90b9" name="Changes" comment=" Exercicio: Sexta aula e formatações">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasCondicionais06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasCondicionais06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701720070712</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary=" Exercicio: Sexta aula e formatações">
+      <created>1701720803223</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1701720803223</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,7 +303,8 @@
     <MESSAGE value="Segunda aula de condicionais" />
     <MESSAGE value="Terceira aula de condicionais" />
     <MESSAGE value="Sexta aula e formatações" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sexta aula e formatações" />
+    <MESSAGE value=" Exercicio: Sexta aula e formatações" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Exercicio: Sexta aula e formatações" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/maratona_java$OlaDevDojo.ic" NAME="OlaDevDojo Coverage Results" MODIFIED="1697776134198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
