@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09e668d7-7534-4c52-b27c-7172791a90b9" name="Changes" comment=" Exercicio: Sexta aula e formatações">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="09e668d7-7534-4c52-b27c-7172791a90b9" name="Changes" comment=" Refatora Exercicio: Sexta aula e formatações">
       <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasCondicionais06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasCondicionais06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -281,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701720803223</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary=" Refatora Exercicio: Sexta aula e formatações">
+      <created>1701721347652</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1701721347652</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,7 +310,8 @@
     <MESSAGE value="Terceira aula de condicionais" />
     <MESSAGE value="Sexta aula e formatações" />
     <MESSAGE value=" Exercicio: Sexta aula e formatações" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Exercicio: Sexta aula e formatações" />
+    <MESSAGE value=" Refatora Exercicio: Sexta aula e formatações" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Refatora Exercicio: Sexta aula e formatações" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/maratona_java$OlaDevDojo.ic" NAME="OlaDevDojo Coverage Results" MODIFIED="1697776134198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
