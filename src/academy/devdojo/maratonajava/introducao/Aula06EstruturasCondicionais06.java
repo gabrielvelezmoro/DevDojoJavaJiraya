@@ -12,7 +12,7 @@ public class Aula06EstruturasCondicionais06 {
                 System.out.println("Final de semana");
                 break;
             case 7:
-                System.out.println("Dia de semana");
+                System.out.println("Final de semana");
                 break;
             case 3:
 

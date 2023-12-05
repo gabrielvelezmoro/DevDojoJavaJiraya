@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09e668d7-7534-4c52-b27c-7172791a90b9" name="Changes" comment=" Refatora Exercicio: Sexta aula e formatações">
+      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasCondicionais06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula06EstruturasCondicionais06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,20 +56,7 @@
       <recent name="academy.devdojo.maratonajava.introducao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aula06EstruturasCondicionais06">
-    <configuration name="Aula05EstruturasCondicionais01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Aula06EstruturasDeRepeticao01">
     <configuration name="Aula05EstruturasCondicionais02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais02" />
       <module name="maratona-java" />
@@ -120,6 +109,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Aula06EstruturasDeRepeticao01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.introducao.Aula06EstruturasDeRepeticao01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="maratona-java" />
@@ -129,19 +131,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Aula06EstruturasDeRepeticao01" />
       <item itemvalue="Application.Aula06EstruturasCondicionais05" />
       <item itemvalue="Application.Aula06EstruturasCondicionais06" />
-      <item itemvalue="Application.Aula05EstruturasCondicionais01" />
       <item itemvalue="Application.Aula05EstruturasCondicionais02" />
       <item itemvalue="Application.Aula05EstruturasCondicionais03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula06EstruturasDeRepeticao01" />
         <item itemvalue="Application.Aula06EstruturasCondicionais06" />
         <item itemvalue="Application.Aula06EstruturasCondicionais05" />
         <item itemvalue="Application.Aula05EstruturasCondicionais03" />
         <item itemvalue="Application.Aula05EstruturasCondicionais02" />
-        <item itemvalue="Application.Aula05EstruturasCondicionais01" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +289,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701721347652</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary=" Refatora Exercicio: Sexta aula e formatações">
+      <created>1701777581517</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1701777581521</updated>
+    </task>
+    <task id="LOCAL-00021" summary=" Refatora Exercicio: Sexta aula e formatações">
+      <created>1701777622828</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1701777622828</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
